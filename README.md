@@ -2,3 +2,4 @@
 
 * develop - razvijati
 * developer - razvijalac
+* grid - rešetka
