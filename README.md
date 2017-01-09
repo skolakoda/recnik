@@ -10,5 +10,6 @@
 * matrices - matrice
 * string - struna
 * render - prikazati, oslikati
+* update - ažurirati
 * vertex - vrh
 * vertices - vrhovi
