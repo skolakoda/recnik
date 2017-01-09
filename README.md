@@ -1,5 +1,6 @@
 # Rečnik programerskih izraza
 
+* array - niz
 * development - razvoj
 * developer - razvijalac
 * design pattern - projektni obrazac
