@@ -1,4 +1,4 @@
 # Rečnik programerskih izraza
 
-develop - razvijati
-developer - razvijalac
+* develop - razvijati
+* developer - razvijalac
