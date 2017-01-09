@@ -9,5 +9,6 @@
 * matrix - matrica
 * matrices - matrice
 * string - struna
+* render - prikazati, oslikati
 * vertex - vrh
 * vertices - vrhovi
