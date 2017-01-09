@@ -1,1 +1,2 @@
-# recnik
+# Rečnik programerskih izraza
+
