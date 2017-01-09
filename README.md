@@ -1,8 +1,8 @@
 # Rečnik programerskih izraza
 
 * array - niz
-* development - razvoj
 * developer - razvijalac
+* development - razvoj
 * design pattern - projektni obrazac
 * grid - rešetka
 * loop - petlja
