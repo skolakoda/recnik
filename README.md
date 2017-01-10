@@ -1,5 +1,5 @@
 # Rečnik programerskih izraza
-Domišljati prevodi novih izraza u duhu jezika
+Prevodi programerskih izraza u duhu srpskog jezika
 
 * application - aplikacija, primena
 * array - niz
