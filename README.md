@@ -1,5 +1,6 @@
 # Rečnik programerskih izraza
-Pokušavamo prevesti programerske izraze kojima se svakodnevno služimo, a da to ne zvuči previše nategnuto u duhu srpskog jezika. Naravno, neki prevodi nisu idealni - predloži bolji!
+
+Pokušavamo prevesti programerske izraze kojima se svakodnevno služimo, a da to bude koliko-toliko u duhu jezika. Naravno, neki prevodi nisu idealni - predloži bolji!
 
 * application - aplikacija, primena
 * array - niz
@@ -8,6 +9,7 @@ Pokušavamo prevesti programerske izraze kojima se svakodnevno služimo, a da to
 * development - razvoj
 * design pattern - projektni obrazac
 * grid - rešetka
+* singleton - jedinstvenik
 * loop - petlja
 * matrix - matrica
 * matrices - matrice
