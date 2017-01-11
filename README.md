@@ -1,5 +1,5 @@
 # Rečnik programerskih izraza
-Domišljati prevodi programerskih izraza, u duhu srpskog jezika
+Pokušavamo prevesti programerske izraze kojima se svakodnevno služimo, a da to ne zvuči previše nategnuto u duhu srpskog jezika. Naravno, neki prevodi nisu idealni - predloži bolji!
 
 * application - aplikacija, primena
 * array - niz
