@@ -8,8 +8,9 @@ Pokušavamo prevesti programerske izraze kojima se svakodnevno služimo, a da to
 * developer - razvijalac
 * development - razvoj
 * design pattern - projektni obrazac
-* frame - kadar
+* frame - kadar (u grafici), okvir
 * frame rate - učestalost kadrova
+* framework - radni okvir
 * grid - rešetka
 * singleton - jedinstvenik
 * loop - petlja
