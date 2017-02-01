@@ -19,6 +19,7 @@ Pokušavamo prevesti programerske izraze kojima se svakodnevno služimo, a da to
 * render - prikazati, oslikati
 * refresh - osvežiti
 * resize - preveličati
+* server - služavnik
 * string - struna
 * texture - prekrivač
 * update - ažurirati, uvremeniti
