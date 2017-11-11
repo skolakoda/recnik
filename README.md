@@ -24,6 +24,7 @@ Pokušavamo prevesti programerske izraze kojima se svakodnevno služimo, a da to
 * server - služavnik
 * string - struna
 * texture - prekrivač
+* underscore - podvlaka
 * update - ažurirati, uvremeniti
 * upgrade - nadograditi
 * vertex - vrh
