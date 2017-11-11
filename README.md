@@ -9,7 +9,7 @@ Pokušavamo prevesti programerske izraze kojima se svakodnevno služimo, a da to
 * development - razvoj
 * design pattern - projektni obrazac
 * container - sadržač
-- escape - izvlačenje
+* escape - izvlačenje
 * frame - kadar (u grafici), okvir
 * frame rate - učestalost kadrova
 * framework - radni okvir
