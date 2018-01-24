@@ -4,6 +4,7 @@ Pokušavamo prevesti programerske izraze kojima se svakodnevno služimo, a da to
 
 * application - aplikacija, primena
 * array - niz
+* buffer - taložnik
 * design - dizajniranje, projektovanje, osmišljanje
 * developer - razvijalac
 * development - razvoj
