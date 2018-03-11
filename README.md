@@ -22,7 +22,7 @@ Pokušavamo prevesti programerske izraze kojima se svakodnevno služimo, a da to
 * render - prikazati, oslikati
 * refresh - osvežiti
 * resize - preveličati
-* server - služavnik
+* server - služitelj
 * string - struna
 * texture - prekrivač
 * underscore - podvlaka
